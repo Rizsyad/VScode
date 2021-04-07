@@ -1,0 +1,21 @@
+{
+    "name": "indosec-violet",
+    "displayName": "Indosec Violet",
+    "description": "This theme my first build theme for my team",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Indosec Violet",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Indosec-Violet.json"
+            }
+        ]
+    }
+}
